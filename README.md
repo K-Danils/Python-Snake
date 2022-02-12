@@ -1,6 +1,6 @@
 <h1>Snake - python version </h1>
 <p>
-Features :
+Features : </br>
 	*) Classic snake gameplay
 	*)Highscore system, the latest highscore will be saved and displayed during the game
 
